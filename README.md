@@ -1,0 +1,2 @@
+# premium-lathe-taper-001-lathe-taper-turning-offset-c
+Tired of guessing taper angles or re-cutting expensive stock because your offset calculations were off? The Lathe Taper Turning &amp; Offset Craft Lab transforms guesswork into precision — a Notion workspace that calculates, documents, and refines every taper you turn.  This template replaces messy notebooks and sticky notes with a structured lab for t
